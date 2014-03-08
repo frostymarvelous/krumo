@@ -22,7 +22,7 @@
         "php": ">=5.2.17"
     },
     "autoload": {
-        "files": ["class.krumo.php"]
+        "files": ["init.krumo.php"]
     }
 }
 
